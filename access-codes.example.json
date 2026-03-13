@@ -1,0 +1,12 @@
+[
+  {
+    "code": "L2-YOUR-MEMBER-CODE-001",
+    "tier": "patreon_l2",
+    "label": "Patreon L2 member"
+  },
+  {
+    "code": "PROMO-YOUR-GUEST-CODE-001",
+    "tier": "promo",
+    "label": "Promo guest"
+  }
+]
